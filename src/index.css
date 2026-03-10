@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* background gradient */
+.bg-navy-gradient-start {
+  background: linear-gradient(135deg, #001f3f 0%, #00091a 100%);
+}
